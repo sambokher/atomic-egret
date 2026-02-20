@@ -1,0 +1,16 @@
+{
+  "agent": "whatif-prompt",
+  "model": "gemini-3-flash-preview",
+  "startTime": "2026-02-20T02:27:21.829Z",
+  "endTime": "2026-02-20T02:27:21.829Z",
+  "steps": 4,
+  "filesModified": [
+    "index.html"
+  ],
+  "sessionId": "session-1771554358382-4q2un",
+  "attribution": {
+    "agentLines": 1,
+    "humanLines": 0,
+    "totalLines": 11
+  }
+}
